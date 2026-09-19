@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gridHR"]
+	path = gridHR
+	url = https://github.com/norberello/gridhr
 [submodule "nomiShape"]
 	path = nomiShape
 	url = https://github.com/norberello/nomishape
